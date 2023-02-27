@@ -1,24 +1,20 @@
 {
   "items": [
     {
-      "items": [
+      "address": "0:33a630f9c54fc4092f43ab978f3fd65964bb0d775553c16953aa1568eb63ab0f",
+      "title": "Peachy Sands",
+      "description": "Discover the beauty and serenity of the shore with our latest NFT project! Featuring clean and simplistic 3D beach illustrations in a tranquil shade of pink, this collection captures the essence of beach life with playful flamingos adding a touch of fun. Immerse yourself in this tranquil digital world and bring a piece of the beach to your NFT portfolio.",
+      "preview": {
+        "source": "https://ipfs.io/ipfs/QmbutYBHmNtmw1nZ9RY7B2ZTpsN5q5QgKndjZ7xmgsA1u3",
+        "mimetype": "image/png"
+      },
+      "files": [
         {
-          "address": "0:33a630f9c54fc4092f43ab978f3fd65964bb0d775553c16953aa1568eb63ab0f",
-          "title": "Peachy Sands",
-          "description": "Discover the beauty and serenity of the shore with our latest NFT project! Featuring clean and simplistic 3D beach illustrations in a tranquil shade of pink, this collection captures the essence of beach life with playful flamingos adding a touch of fun. Immerse yourself in this tranquil digital world and bring a piece of the beach to your NFT portfolio.",
-          "preview": {
-            "source": "https://ipfs.io/ipfs/QmbutYBHmNtmw1nZ9RY7B2ZTpsN5q5QgKndjZ7xmgsA1u3",
-            "mimetype": "image/png"
-          },
-          "files": [
-            {
-              "source": "https://ipfs.io/ipfs/QmVsh5tmR1c2CULtqUJ8P1LmfLhHngSVWzm7w1MZ1FZAuz",
-              "mimetype": "image/jpg"
-            }
-          ],
-          "external_url": "https://testnet.oasis.gallery/"
+          "source": "https://ipfs.io/ipfs/QmVsh5tmR1c2CULtqUJ8P1LmfLhHngSVWzm7w1MZ1FZAuz",
+          "mimetype": "image/jpg"
         }
-      ]
+      ],
+      "external_url": "https://testnet.oasis.gallery/"
     }
   ]
 }
