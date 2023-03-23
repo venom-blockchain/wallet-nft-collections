@@ -17,22 +17,6 @@
       "external_url": "https://testnet.oasis.gallery/"
     },
     {
-      "address": "0:8afaeee10cb59fb5b2e048efe32fe598cbdf0a73f35c628d7931e61534ba1ed1",
-      "title": "Testnet participants",
-      "description": "This digital collectibles marks your involvement in testing Venom products.",
-      "preview": {
-        "source": "https://nft.venom.network/collection-logo.png",
-        "mimetype": "image/png"
-      },
-      "files": [
-        {
-          "source": "https://nft.venom.network/banner.png",
-          "mimetype": "image/png"
-        }
-      ],
-      "external_url": "https://nft.venom.network"
-    },
-    {
       "address": "0:ec0ab798c85aa7256865221bacd4f3df220cf60277a2b79b3091b76c265d1cd7",
       "title": "Absrart Collection",
       "description": "Step into a world of bold and vibrant art with our latest NFT project! This collection features abstract designs in contrasting colors, creating visually striking pieces that are sure to make a statement.",
