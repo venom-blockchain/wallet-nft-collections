@@ -79,6 +79,22 @@
         }
       ],
       "external_url": "https://testnet.oasis.gallery/"
+    },
+    {
+      "address": "0:04d1ace6df578f5b60c8436f953b8256edf9857f64356addbf41f92ac3c0fc52",
+      "title": "Test NFT",
+      "description": "Test NFT collection",
+      "preview": {
+        "source": "https://upload.wikimedia.org/wikipedia/en/c/c9/Charging_Bull_statue.jpg",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bowling_Green_NYC_Feb_2020_13.jpg/1920px-Bowling_Green_NYC_Feb_2020_13.jpg",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://test.com"
     }
   ]
 }
