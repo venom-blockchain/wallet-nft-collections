@@ -79,6 +79,22 @@
         }
       ],
       "external_url": "https://test.com"
+    },
+    {
+      "address": "00:d0145b6c9ec1ac5c93e0bfda3794452edf862fb6d8c47912c53d5dc8fb30c749",
+      "title": "Venom Testnet & Oneart",
+      "description": "Owners of this digital collectibles are Venom testnet participants using OneArt wallet",
+      "preview": {
+        "source": "https://cdn.oneart.digital/activity/files/collection-preview.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://cdn.oneart.digital/imgs/venom-nft/cover_lightx2.png",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://oneart.digital"
     }
   ]
 }
