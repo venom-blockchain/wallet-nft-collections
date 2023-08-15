@@ -80,10 +80,10 @@
       ],
       "external_url": "https://venom.network/"
     },
-    {
-      "address": "0:d0145b6c9ec1ac5c93e0bfda3794452edf862fb6d8c47912c53d5dc8fb30c749",
-      "title": "Venom Testnet & Oneart",
-      "description": "Owners of this digital collectibles are Venom testnet participants using OneArt wallet",
+     {
+      "address": "0:0af88377f5d229049e4ac3791c28d4ede0807f36ecc3dfa73d365901b98d2859",
+      "title": "Venom Testnet & OneArt",
+      "description": "Owners of these digital collectibles are individuals who participated in the Venom Testnet using the OneArt Wallet.",
       "preview": {
         "source": "https://cdn.oneart.digital/activity/files/collection-preview.png",
         "mimetype": "image/png"
