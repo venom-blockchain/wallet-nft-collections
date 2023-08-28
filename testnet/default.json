@@ -95,6 +95,22 @@
         }
       ],
       "external_url": "https://oneart.digital"
+    },
+     {
+      "address": "0:343777da29ebb70c160d2cbc6b98f610e83cc514a469ed32a0bc011e7a5420b9",
+      "title": "Numi Stories, Club 404 Grand Opening",
+      "description": "Get early access to multiplayer functionality in Numiverse Numi Stories mobile game.",
+      "preview": {
+        "source": "https://bafybeiayjiwbwx7det4wnt7jwwntksfmpy2dwdcavapkc23p4zzhnot7au.ipfs.nftstorage.link",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://bafybeiayjiwbwx7det4wnt7jwwntksfmpy2dwdcavapkc23p4zzhnot7au.ipfs.nftstorage.link",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "http://stories.numi.net/"
     }
   ]
 }
