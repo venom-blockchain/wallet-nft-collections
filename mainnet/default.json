@@ -1,3 +1,20 @@
 {
-  "items": []
+  "items": [
+    {
+      "address": "0:a2e7c6524bc1af7d6e097c9254a34aa2dffc6bf13ded15d8289b843ee2592873",
+      "title": "Test NFT Collection",
+      "description": "Testing NFT Standard",
+      "preview": {
+        "source": "https://docs.venom.foundation/assets/images/Venom%20Foundation%20Press%20image%20001-9d35c41f840b3e7a5c01814aca86b0fd.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://docs.venom.foundation/assets/images/Venom%20Foundation%20Press%20image%20001-9d35c41f840b3e7a5c01814aca86b0fd.png",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://docs.venom.foundation"
+    }
+  ]
 }
