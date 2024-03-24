@@ -1,20 +1,20 @@
 {
   "items": [
     {
-      "address": "0:a2e7c6524bc1af7d6e097c9254a34aa2dffc6bf13ded15d8289b843ee2592873",
-      "title": "Test NFT Collection",
-      "description": "Testing NFT Standard",
+      "address": "0:898de39c6ea5472b7237937d4bdf525ded6eb5b9c967032d2ef7ec527a2a4b1c",
+      "title": "The Hackgirl Club",
+      "description": "Discover the mesmerizing world of Hacker Girls, where beauty meets technology. Each NFT is a unique masterpiece, meticulously crafted to showcase the perfect blend of style and skill.",
       "preview": {
-        "source": "https://docs.venom.foundation/assets/images/Venom%20Foundation%20Press%20image%20001-9d35c41f840b3e7a5c01814aca86b0fd.png",
+        "source": ""https://ipfs.hackgirl.club/ipfs/QmXDb33RVmQcfz44Z9ukVRhf4ZfAbQQv3aYdzvTLMBPdHK/preview.png",
         "mimetype": "image/png"
       },
       "files": [
         {
-          "source": "https://docs.venom.foundation/assets/images/Venom%20Foundation%20Press%20image%20001-9d35c41f840b3e7a5c01814aca86b0fd.png",
+          "source": "https://ipfs.hackgirl.club/ipfs/QmXDb33RVmQcfz44Z9ukVRhf4ZfAbQQv3aYdzvTLMBPdHK/preview.png",
           "mimetype": "image/png"
         }
       ],
-      "external_url": "https://docs.venom.foundation"
+      "external_url": "https://hackgirl.club"
     }
   ]
 }
