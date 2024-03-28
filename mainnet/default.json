@@ -47,6 +47,22 @@
         }
       ],
       "external_url": "https://venom.network"
+    },
+    {
+      "address": "0:bfa8894ebc5b742aa6ed15b588830fa83e7b7a86cd0efb88df40bf3a269d0867",
+      "title": "Venom Punks",
+      "description": "Venom Punks, the first-ever NFT project on Venom Foundation, is at the forefront of innovation, setting the benchmark for others to follow. With a limited supply of 10,000, these Punks will live forever on the Venom Foundation Blockchain. Venom Punks aims to become the leading NFT collection on the Venom Foundation. As the first and only project of its kind, Venom Punks will hold a unique position in the ecosystem. Our goal is to make Venom Punks one of the most sought-after collections, offering exciting utilities that will blow your mind! Get ready for an unforgettable experience with Venom Punks!",
+      "preview": {
+        "source": "https://brown-adjacent-wolverine-639.mypinata.cloud/ipfs/Qmcp4goHzjGGbD6EV7s8bzykhzzGtBxTBzdaxG93F5gTGh",
+        "mimetype": "image/jpeg"
+      },
+      "files": [
+        {
+         "source": "https://brown-adjacent-wolverine-639.mypinata.cloud/ipfs/Qmcp4goHzjGGbD6EV7s8bzykhzzGtBxTBzdaxG93F5gTGh",
+        "mimetype": "image/jpeg"
+        }
+      ],
+      "external_url": "https://venompunks.com"
     }
   ]
 }
