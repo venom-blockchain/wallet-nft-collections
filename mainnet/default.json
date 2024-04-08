@@ -63,6 +63,22 @@
         }
       ],
       "external_url": "https://venompunks.com"
+    },
+    {
+      "address": "0:2518283f592d7e8f7dac9bbb317de0af7a6a9bd985de06c317d18a11681d8c89",
+      "title": "Segmint collection",
+      "description": "Introducing the unique NFT collection Segmint, an innovative project where advertising meets art and blockchain, creating an exciting world of interactive creativity.",
+      "preview": {
+        "source": "https://segmint.app/collection_logo.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+         "source": "https://segmint.app/collection_logo.png",
+        "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://segmint.app"
     }
   ]
 }
