@@ -79,6 +79,22 @@
         }
       ],
       "external_url": "https://segmint.app"
+    },
+    {
+      "address": "0:443cf5a6c17c9f8863646ed88b8b568679a171e0634c4ef2828282a86844d525",
+      "title": "VenomApes.com",
+      "description": "VENOM APES is the first generative APES collection on the Venom Blockchain consist 10000 unique Art Apes.",
+      "preview": {
+        "source": "https://api.venomapes.com/static/icon.png",
+        "mimetype": "image/png"
+      },
+      "files": [
+        {
+          "source": "https://api.venomapes.com/static/1.png",
+          "mimetype": "image/png"
+        }
+      ],
+      "external_url": "https://venomapes.com"
     }
   ]
 }
